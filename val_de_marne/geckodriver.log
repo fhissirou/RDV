@@ -1,0 +1,379 @@
+1529692580583	geckodriver	INFO	geckodriver 0.21.0
+1529692580588	geckodriver	INFO	Listening on 127.0.0.1:35867
+1529692581630	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rfQW2eD00qq4"
+1529692585088	Marionette	INFO	Listening on port 35581
+1529692585143	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://global/content/bindings/textbox.xml, line 442: TypeError: controller is null
+JavaScript error: chrome://global/content/bindings/textbox.xml, line 442: TypeError: controller is null
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1529692664145	geckodriver	INFO	geckodriver 0.21.0
+1529692664150	geckodriver	INFO	Listening on 127.0.0.1:59115
+1529692665157	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Gp8SMkPgfpqt"
+1529692668790	Marionette	INFO	Listening on port 38693
+1529692668873	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529692700108	geckodriver	INFO	geckodriver 0.21.0
+1529692700114	geckodriver	INFO	Listening on 127.0.0.1:43047
+1529692701120	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.xiTgsiXt9mYi"
+1529692704684	Marionette	INFO	Listening on port 33063
+1529692704736	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1529692761841	geckodriver	INFO	geckodriver 0.21.0
+1529692761845	geckodriver	INFO	Listening on 127.0.0.1:52567
+1529692762852	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Tt2Gyruu6pCK"
+1529692766483	Marionette	INFO	Listening on port 41981
+1529692766564	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1529692831403	geckodriver	INFO	geckodriver 0.21.0
+1529692831409	geckodriver	INFO	Listening on 127.0.0.1:33315
+1529692832414	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.YJK1ZycoNq30"
+1529692835901	Marionette	INFO	Listening on port 41047
+1529692835940	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.val-de-marne.gouv.fr/var/ezwebin_site/cache/public/javascript/4180d22616c170173b647d048ac41787_1529657807.js, line 244: unreachable code after return statement
+1529692910202	geckodriver	INFO	geckodriver 0.21.0
+1529692910206	geckodriver	INFO	Listening on 127.0.0.1:59515
+1529692911214	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.buY9OduMEB5M"
+1529692914764	Marionette	INFO	Listening on port 34875
+1529692914829	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.val-de-marne.gouv.fr/var/ezwebin_site/cache/public/javascript/4180d22616c170173b647d048ac41787_1529657807.js, line 244: unreachable code after return statement
+1529693141980	geckodriver	INFO	geckodriver 0.21.0
+1529693141990	geckodriver	INFO	Listening on 127.0.0.1:33547
+1529693142014	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.MUwk8zwruBYU"
+1529693145728	Marionette	INFO	Listening on port 37193
+1529693145826	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.val-de-marne.gouv.fr/var/ezwebin_site/cache/public/javascript/4180d22616c170173b647d048ac41787_1529657807.js, line 244: unreachable code after return statement
+1529693169282	geckodriver	INFO	geckodriver 0.21.0
+1529693169287	geckodriver	INFO	Listening on 127.0.0.1:40803
+1529693170294	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.f9CuU0HCzapC"
+1529693175103	Marionette	INFO	Listening on port 34103
+1529693175111	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.val-de-marne.gouv.fr/var/ezwebin_site/cache/public/javascript/4180d22616c170173b647d048ac41787_1529657807.js, line 244: unreachable code after return statement
+1529693259411	geckodriver	INFO	geckodriver 0.21.0
+1529693259416	geckodriver	INFO	Listening on 127.0.0.1:36449
+1529693260422	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.S3wH3mxNOBza"
+1529693264122	Marionette	INFO	Listening on port 39287
+1529693264147	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.val-de-marne.gouv.fr/var/ezwebin_site/cache/public/javascript/4180d22616c170173b647d048ac41787_1529657807.js, line 244: unreachable code after return statement
+1529693298119	geckodriver	INFO	geckodriver 0.21.0
+1529693298128	geckodriver	INFO	Listening on 127.0.0.1:34527
+1529693299132	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.f8xWmVVjFglW"
+1529693302833	Marionette	INFO	Listening on port 36199
+1529693302851	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.val-de-marne.gouv.fr/var/ezwebin_site/cache/public/javascript/4180d22616c170173b647d048ac41787_1529657807.js, line 244: unreachable code after return statement
+1529693346115	geckodriver	INFO	geckodriver 0.21.0
+1529693346120	geckodriver	INFO	Listening on 127.0.0.1:53581
+1529693347127	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.xZhqDrRPTz1H"
+1529693350631	Marionette	INFO	Listening on port 42337
+1529693350639	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.val-de-marne.gouv.fr/var/ezwebin_site/cache/public/javascript/4180d22616c170173b647d048ac41787_1529657807.js, line 244: unreachable code after return statement
+1529693652417	geckodriver	INFO	geckodriver 0.21.0
+1529693652452	geckodriver	INFO	Listening on 127.0.0.1:45117
+1529693652519	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.bEmd7j16f9Bq"
+1529693659349	Marionette	INFO	Listening on port 33087
+1529693660889	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.val-de-marne.gouv.fr/var/ezwebin_site/cache/public/javascript/4180d22616c170173b647d048ac41787_1529657807.js, line 244: unreachable code after return statement
+JavaScript warning: http://www.val-de-marne.gouv.fr/var/ezwebin_site/cache/public/javascript/c88becbcff0630f7fcd2ccbc939927ee_1529657807.js, line 244: unreachable code after return statement
+JavaScript warning: http://www.val-de-marne.gouv.fr/var/ezwebin_site/cache/public/javascript/4180d22616c170173b647d048ac41787_1529657807.js, line 244: unreachable code after return statement
+1529694946977	geckodriver	INFO	geckodriver 0.21.0
+1529694947105	geckodriver	INFO	Listening on 127.0.0.1:55647
+1529694948143	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.sL7vkAhPHS3D"
+1529694953016	Marionette	INFO	Listening on port 41157
+1529694953082	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.val-de-marne.gouv.fr/var/ezwebin_site/cache/public/javascript/4180d22616c170173b647d048ac41787_1529657807.js, line 244: unreachable code after return statement
+1529695030450	geckodriver	INFO	geckodriver 0.21.0
+1529695030455	geckodriver	INFO	Listening on 127.0.0.1:39663
+1529695031460	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Rg9iw2mGIEo3"
+1529695034665	Marionette	INFO	Listening on port 44927
+1529695034676	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.val-de-marne.gouv.fr/var/ezwebin_site/cache/public/javascript/4180d22616c170173b647d048ac41787_1529657807.js, line 244: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1529695244651	geckodriver	INFO	geckodriver 0.21.0
+1529695244655	geckodriver	INFO	Listening on 127.0.0.1:51109
+1529695245662	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.HEmpPxyPRd4j"
+1529695249073	Marionette	INFO	Listening on port 40271
+1529695249175	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.val-de-marne.gouv.fr/var/ezwebin_site/cache/public/javascript/4180d22616c170173b647d048ac41787_1529657807.js, line 244: unreachable code after return statement
+1529695371478	geckodriver	INFO	geckodriver 0.21.0
+1529695371483	geckodriver	INFO	Listening on 127.0.0.1:58515
+1529695372488	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tSXED7ZVwQBr"
+1529695376253	Marionette	INFO	Listening on port 32783
+1529695376302	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.val-de-marne.gouv.fr/var/ezwebin_site/cache/public/javascript/4180d22616c170173b647d048ac41787_1529657807.js, line 244: unreachable code after return statement
+1529695894103	geckodriver	INFO	geckodriver 0.21.0
+1529695894107	geckodriver	INFO	Listening on 127.0.0.1:46283
+1529695895114	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ydO4gC6Xh3eR"
+1529695898715	Marionette	INFO	Listening on port 39751
+1529695898731	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.val-de-marne.gouv.fr/var/ezwebin_site/cache/public/javascript/4180d22616c170173b647d048ac41787_1529657807.js, line 244: unreachable code after return statement
+1529695980893	geckodriver	INFO	geckodriver 0.21.0
+1529695980897	geckodriver	INFO	Listening on 127.0.0.1:59925
+1529695981905	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.X6uLtneMQBe9"
+1529695985276	Marionette	INFO	Listening on port 41681
+1529695985321	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.val-de-marne.gouv.fr/var/ezwebin_site/cache/public/javascript/4180d22616c170173b647d048ac41787_1529657807.js, line 244: unreachable code after return statement
+1529696020130	geckodriver	INFO	geckodriver 0.21.0
+1529696020135	geckodriver	INFO	Listening on 127.0.0.1:49071
+1529696021142	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XvddfXTHIXuj"
+1529696024534	Marionette	INFO	Listening on port 36077
+1529696024553	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.val-de-marne.gouv.fr/var/ezwebin_site/cache/public/javascript/4180d22616c170173b647d048ac41787_1529657807.js, line 244: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1529696069450	geckodriver	INFO	geckodriver 0.21.0
+1529696069454	geckodriver	INFO	Listening on 127.0.0.1:53487
+1529696070462	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.QwEKyU4bN252"
+1529696073911	Marionette	INFO	Listening on port 39111
+1529696073975	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.val-de-marne.gouv.fr/var/ezwebin_site/cache/public/javascript/4180d22616c170173b647d048ac41787_1529657807.js, line 244: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1529696099989	geckodriver	INFO	geckodriver 0.21.0
+1529696099995	geckodriver	INFO	Listening on 127.0.0.1:37527
+1529696100996	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Jg3Rmz5SG1g4"
+1529696104427	Marionette	INFO	Listening on port 44649
+1529696104508	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.val-de-marne.gouv.fr/var/ezwebin_site/cache/public/javascript/4180d22616c170173b647d048ac41787_1529657807.js, line 244: unreachable code after return statement
+1529696283838	geckodriver	INFO	geckodriver 0.21.0
+1529696283842	geckodriver	INFO	Listening on 127.0.0.1:41685
+1529696284850	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rup3AMeiuF5e"
+1529696288353	Marionette	INFO	Listening on port 41627
+1529696288376	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.val-de-marne.gouv.fr/var/ezwebin_site/cache/public/javascript/4180d22616c170173b647d048ac41787_1529657807.js, line 244: unreachable code after return statement
+JavaScript warning: http://www.val-de-marne.gouv.fr/var/ezwebin_site/cache/public/javascript/4180d22616c170173b647d048ac41787_1529657807.js, line 244: unreachable code after return statement
+1529697106004	geckodriver	INFO	geckodriver 0.21.0
+1529697106038	geckodriver	INFO	Listening on 127.0.0.1:35149
+1529697107029	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.lVcxGKXOrjKj"
+1529697117772	Marionette	INFO	Listening on port 36181
+1529697117858	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.val-de-marne.gouv.fr/var/ezwebin_site/cache/public/javascript/4180d22616c170173b647d048ac41787_1529657807.js, line 244: unreachable code after return statement
+JavaScript warning: http://www.val-de-marne.gouv.fr/var/ezwebin_site/cache/public/javascript/4180d22616c170173b647d048ac41787_1529657807.js, line 244: unreachable code after return statement
+1529697472803	geckodriver	INFO	geckodriver 0.21.0
+1529697472828	geckodriver	INFO	Listening on 127.0.0.1:38341
+1529697473828	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.y6K5x34tcTwl"
+1529697484573	Marionette	INFO	Listening on port 41203
+1529697484642	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.val-de-marne.gouv.fr/var/ezwebin_site/cache/public/javascript/4180d22616c170173b647d048ac41787_1529657807.js, line 244: unreachable code after return statement
+JavaScript warning: http://www.val-de-marne.gouv.fr/var/ezwebin_site/cache/public/javascript/4180d22616c170173b647d048ac41787_1529657807.js, line 244: unreachable code after return statement
+1532436875905	geckodriver	INFO	geckodriver 0.21.0
+1532436875986	geckodriver	INFO	Listening on 127.0.0.1:52263
+1532436876917	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.wU31OuJU9YZC"
+1532436889476	Marionette	INFO	Listening on port 35535
+1532436889583	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.val-de-marne.gouv.fr/var/ezwebin_site/cache/public/javascript/4180d22616c170173b647d048ac41787_1529657807.js, line 244: unreachable code after return statement
+JavaScript warning: http://www.val-de-marne.gouv.fr/var/ezwebin_site/cache/public/javascript/4180d22616c170173b647d048ac41787_1529657807.js, line 244: unreachable code after return statement
+JavaScript warning: http://www.val-de-marne.gouv.fr/var/ezwebin_site/cache/public/javascript/4180d22616c170173b647d048ac41787_1529657807.js, line 244: unreachable code after return statement
+1532437020435	geckodriver	INFO	geckodriver 0.21.0
+1532437020439	geckodriver	INFO	Listening on 127.0.0.1:58053
+1532437021446	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1lj5LK1XdpB3"
+1532437025401	Marionette	INFO	Listening on port 40729
+1532437025459	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.val-de-marne.gouv.fr/var/ezwebin_site/cache/public/javascript/4180d22616c170173b647d048ac41787_1529657807.js, line 244: unreachable code after return statement
+1532437110968	geckodriver	INFO	geckodriver 0.21.0
+1532437110972	geckodriver	INFO	Listening on 127.0.0.1:40471
+1532437111980	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.mQhiAjQ5U6ng"
+1532437115786	Marionette	INFO	Listening on port 46231
+1532437115793	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.val-de-marne.gouv.fr/var/ezwebin_site/cache/public/javascript/4180d22616c170173b647d048ac41787_1529657807.js, line 244: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532437133919	geckodriver	INFO	geckodriver 0.21.0
+1532437133924	geckodriver	INFO	Listening on 127.0.0.1:41945
+1532437134931	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.risa7px4eimo"
+1532437138620	Marionette	INFO	Listening on port 34171
+1532437138645	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.val-de-marne.gouv.fr/var/ezwebin_site/cache/public/javascript/4180d22616c170173b647d048ac41787_1529657807.js, line 244: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1532437736119	geckodriver	INFO	geckodriver 0.21.0
+1532437736123	geckodriver	INFO	Listening on 127.0.0.1:52187
+1532437737127	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2kbnCKtGsFmi"
+1532437740613	Marionette	INFO	Listening on port 38691
+1532437740646	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.val-de-marne.gouv.fr/var/ezwebin_site/cache/public/javascript/4180d22616c170173b647d048ac41787_1529657807.js, line 244: unreachable code after return statement
+1532438519383	geckodriver	INFO	geckodriver 0.21.0
+1532438519387	geckodriver	INFO	Listening on 127.0.0.1:40483
+1532438520395	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.RxIgRy4qCAmb"
+1532438524032	Marionette	INFO	Listening on port 45015
+1532438524107	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.val-de-marne.gouv.fr/var/ezwebin_site/cache/public/javascript/4180d22616c170173b647d048ac41787_1529657807.js, line 244: unreachable code after return statement
+1532438552588	geckodriver	INFO	geckodriver 0.21.0
+1532438552592	geckodriver	INFO	Listening on 127.0.0.1:56779
+1532438553600	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.r4ilBdvQO4Fq"
+1532438557183	Marionette	INFO	Listening on port 38187
+1532438557219	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.val-de-marne.gouv.fr/var/ezwebin_site/cache/public/javascript/4180d22616c170173b647d048ac41787_1529657807.js, line 244: unreachable code after return statement
+1532438618455	geckodriver	INFO	geckodriver 0.21.0
+1532438618460	geckodriver	INFO	Listening on 127.0.0.1:53661
+1532438619466	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.fCFjaq8yIqel"
+1532438623097	Marionette	INFO	Listening on port 43551
+1532438623179	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.val-de-marne.gouv.fr/var/ezwebin_site/cache/public/javascript/4180d22616c170173b647d048ac41787_1529657807.js, line 244: unreachable code after return statement
+1532438695601	geckodriver	INFO	geckodriver 0.21.0
+1532438695606	geckodriver	INFO	Listening on 127.0.0.1:40817
+1532438695634	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.REpjQJ8XKJcb"
+1532438700359	Marionette	INFO	Listening on port 37099
+1532438700449	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.val-de-marne.gouv.fr/var/ezwebin_site/cache/public/javascript/4180d22616c170173b647d048ac41787_1529657807.js, line 244: unreachable code after return statement
+JavaScript warning: http://www.val-de-marne.gouv.fr/var/ezwebin_site/cache/public/javascript/4180d22616c170173b647d048ac41787_1529657807.js, line 244: unreachable code after return statement
+1532438903025	geckodriver	INFO	geckodriver 0.21.0
+1532438903030	geckodriver	INFO	Listening on 127.0.0.1:39771
+1532438904033	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.lee0uzMNAvlx"
+1532438907652	Marionette	INFO	Listening on port 34237
+1532438907750	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.val-de-marne.gouv.fr/var/ezwebin_site/cache/public/javascript/4180d22616c170173b647d048ac41787_1529657807.js, line 244: unreachable code after return statement
+1532438986948	geckodriver	INFO	geckodriver 0.21.0
+1532438986952	geckodriver	INFO	Listening on 127.0.0.1:33385
+1532438987960	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.TM35EAukbjRK"
+1532438992025	Marionette	INFO	Listening on port 36251
+1532438992080	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.val-de-marne.gouv.fr/var/ezwebin_site/cache/public/javascript/4180d22616c170173b647d048ac41787_1529657807.js, line 244: unreachable code after return statement
+JavaScript warning: http://www.val-de-marne.gouv.fr/var/ezwebin_site/cache/public/javascript/4180d22616c170173b647d048ac41787_1529657807.js, line 244: unreachable code after return statement
+1532439063453	geckodriver	INFO	geckodriver 0.21.0
+1532439063457	geckodriver	INFO	Listening on 127.0.0.1:50449
+1532439064465	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.qeClctKjX4sL"
+1532439068116	Marionette	INFO	Listening on port 33157
+1532439068180	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.val-de-marne.gouv.fr/var/ezwebin_site/cache/public/javascript/4180d22616c170173b647d048ac41787_1529657807.js, line 244: unreachable code after return statement
+JavaScript warning: http://www.val-de-marne.gouv.fr/var/ezwebin_site/cache/public/javascript/4180d22616c170173b647d048ac41787_1529657807.js, line 244: unreachable code after return statement
+1532439199183	geckodriver	INFO	geckodriver 0.21.0
+1532439199187	geckodriver	INFO	Listening on 127.0.0.1:49651
+1532439200195	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.YgzhQDLzCtOy"
+1532439203829	Marionette	INFO	Listening on port 40853
+1532439203907	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.val-de-marne.gouv.fr/var/ezwebin_site/cache/public/javascript/4180d22616c170173b647d048ac41787_1529657807.js, line 244: unreachable code after return statement
+JavaScript warning: http://www.val-de-marne.gouv.fr/var/ezwebin_site/cache/public/javascript/4180d22616c170173b647d048ac41787_1529657807.js, line 244: unreachable code after return statement
+1532439312089	geckodriver	INFO	geckodriver 0.21.0
+1532439312093	geckodriver	INFO	Listening on 127.0.0.1:59861
+1532439313101	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.eQy7c5K4iymq"
+1532439316542	Marionette	INFO	Listening on port 34643
+1532439316612	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.val-de-marne.gouv.fr/var/ezwebin_site/cache/public/javascript/4180d22616c170173b647d048ac41787_1529657807.js, line 244: unreachable code after return statement
+JavaScript warning: http://www.val-de-marne.gouv.fr/var/ezwebin_site/cache/public/javascript/4180d22616c170173b647d048ac41787_1529657807.js, line 244: unreachable code after return statement
+1532439581491	geckodriver	INFO	geckodriver 0.21.0
+1532439581538	geckodriver	INFO	Listening on 127.0.0.1:40835
+1532439582503	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.IGYAvwbhqFtA"
+1532439587527	Marionette	INFO	Listening on port 46449
+1532439587619	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.val-de-marne.gouv.fr/var/ezwebin_site/cache/public/javascript/4180d22616c170173b647d048ac41787_1529657807.js, line 244: unreachable code after return statement
+JavaScript warning: http://www.val-de-marne.gouv.fr/var/ezwebin_site/cache/public/javascript/4180d22616c170173b647d048ac41787_1529657807.js, line 244: unreachable code after return statement
+1532439657491	geckodriver	INFO	geckodriver 0.21.0
+1532439657499	geckodriver	INFO	Listening on 127.0.0.1:52903
+1532439658505	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2YN6HndG7U4q"
+1532439663155	Marionette	INFO	Listening on port 36355
+1532439663875	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.val-de-marne.gouv.fr/var/ezwebin_site/cache/public/javascript/4180d22616c170173b647d048ac41787_1529657807.js, line 244: unreachable code after return statement
+JavaScript warning: http://www.val-de-marne.gouv.fr/var/ezwebin_site/cache/public/javascript/4180d22616c170173b647d048ac41787_1529657807.js, line 244: unreachable code after return statement
+1532439783396	geckodriver	INFO	geckodriver 0.21.0
+1532439783406	geckodriver	INFO	Listening on 127.0.0.1:37177
+1532439783467	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.QxxFGmSguFd3"
+1532439791034	Marionette	INFO	Listening on port 40861
+1532439791147	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.val-de-marne.gouv.fr/var/ezwebin_site/cache/public/javascript/4180d22616c170173b647d048ac41787_1529657807.js, line 244: unreachable code after return statement
+JavaScript warning: http://www.val-de-marne.gouv.fr/var/ezwebin_site/cache/public/javascript/4180d22616c170173b647d048ac41787_1529657807.js, line 244: unreachable code after return statement
+1532439910193	geckodriver	INFO	geckodriver 0.21.0
+1532439910202	geckodriver	INFO	Listening on 127.0.0.1:55573
+1532439910253	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.NFFHtBhfvicS"
+1532439920526	Marionette	INFO	Listening on port 43531
+1532439921209	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.val-de-marne.gouv.fr/var/ezwebin_site/cache/public/javascript/4180d22616c170173b647d048ac41787_1529657807.js, line 244: unreachable code after return statement
+JavaScript warning: http://www.val-de-marne.gouv.fr/var/ezwebin_site/cache/public/javascript/4180d22616c170173b647d048ac41787_1529657807.js, line 244: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1532440471350	geckodriver	INFO	geckodriver 0.21.0
+1532440471386	geckodriver	INFO	Listening on 127.0.0.1:52795
+1532440471494	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.iZ7LLC7tJvXz"
+1532440477204	Marionette	INFO	Listening on port 42201
+1532440477243	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.val-de-marne.gouv.fr/var/ezwebin_site/cache/public/javascript/4180d22616c170173b647d048ac41787_1529657807.js, line 244: unreachable code after return statement
+JavaScript warning: http://www.val-de-marne.gouv.fr/var/ezwebin_site/cache/public/javascript/4180d22616c170173b647d048ac41787_1529657807.js, line 244: unreachable code after return statement
+1532440654768	geckodriver	INFO	geckodriver 0.21.0
+1532440654772	geckodriver	INFO	Listening on 127.0.0.1:51341
+1532440655779	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.86rRM8E9upzz"
+1532440659528	Marionette	INFO	Listening on port 40159
+1532440659591	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.val-de-marne.gouv.fr/var/ezwebin_site/cache/public/javascript/4180d22616c170173b647d048ac41787_1529657807.js, line 244: unreachable code after return statement
+JavaScript warning: http://www.val-de-marne.gouv.fr/var/ezwebin_site/cache/public/javascript/4180d22616c170173b647d048ac41787_1529657807.js, line 244: unreachable code after return statement
+1532440774852	geckodriver	INFO	geckodriver 0.21.0
+1532440774856	geckodriver	INFO	Listening on 127.0.0.1:57487
+1532440775864	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Ap9imL3koswb"
+1532440779292	Marionette	INFO	Listening on port 34561
+1532440779376	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.val-de-marne.gouv.fr/var/ezwebin_site/cache/public/javascript/4180d22616c170173b647d048ac41787_1529657807.js, line 244: unreachable code after return statement
+JavaScript warning: http://www.val-de-marne.gouv.fr/var/ezwebin_site/cache/public/javascript/4180d22616c170173b647d048ac41787_1529657807.js, line 244: unreachable code after return statement
+1532440940248	geckodriver	INFO	geckodriver 0.21.0
+1532440940252	geckodriver	INFO	Listening on 127.0.0.1:60711
+1532440941291	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.qQIL2Wwtjyop"
+1532440945290	Marionette	INFO	Listening on port 33877
+1532440945306	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.val-de-marne.gouv.fr/var/ezwebin_site/cache/public/javascript/4180d22616c170173b647d048ac41787_1529657807.js, line 244: unreachable code after return statement
+JavaScript warning: http://www.val-de-marne.gouv.fr/var/ezwebin_site/cache/public/javascript/4180d22616c170173b647d048ac41787_1529657807.js, line 244: unreachable code after return statement
+1532440984031	geckodriver	INFO	geckodriver 0.21.0
+1532440984035	geckodriver	INFO	Listening on 127.0.0.1:45495
+1532440985041	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.MXZDwTzMohBT"
+1532440988313	Marionette	INFO	Listening on port 44469
+1532440988363	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.val-de-marne.gouv.fr/var/ezwebin_site/cache/public/javascript/4180d22616c170173b647d048ac41787_1529657807.js, line 244: unreachable code after return statement
+JavaScript warning: http://www.val-de-marne.gouv.fr/var/ezwebin_site/cache/public/javascript/4180d22616c170173b647d048ac41787_1529657807.js, line 244: unreachable code after return statement
+1532441033783	geckodriver	INFO	geckodriver 0.21.0
+1532441033787	geckodriver	INFO	Listening on 127.0.0.1:43605
+1532441034794	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.GzOFJUPskvo0"
+1532441038266	Marionette	INFO	Listening on port 36265
+1532441038326	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.val-de-marne.gouv.fr/var/ezwebin_site/cache/public/javascript/4180d22616c170173b647d048ac41787_1529657807.js, line 244: unreachable code after return statement
+JavaScript warning: http://www.val-de-marne.gouv.fr/var/ezwebin_site/cache/public/javascript/4180d22616c170173b647d048ac41787_1529657807.js, line 244: unreachable code after return statement
+1532441119285	geckodriver	INFO	geckodriver 0.21.0
+1532441119289	geckodriver	INFO	Listening on 127.0.0.1:57621
+1532441120297	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.sKPDbNOLp1vA"
+1532441123637	Marionette	INFO	Listening on port 33739
+1532441123710	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.val-de-marne.gouv.fr/var/ezwebin_site/cache/public/javascript/4180d22616c170173b647d048ac41787_1529657807.js, line 244: unreachable code after return statement
+JavaScript warning: http://www.val-de-marne.gouv.fr/var/ezwebin_site/cache/public/javascript/4180d22616c170173b647d048ac41787_1529657807.js, line 244: unreachable code after return statement

@@ -22,8 +22,8 @@ class Prefecture:
 	def sendMail(self, SUBJECT, BODY, TO):
 			try:
 
-				FROM='amftools.prog@gmail.com'
-				password = "amftools2016"
+				FROM='your adress mail'
+				password = "password"
 				MESSAGE = MIMEMultipart()
 				MESSAGE['subject'] = SUBJECT
 				MESSAGE['To'] = str(TO)
@@ -113,4 +113,4 @@ class Prefecture:
 if __name__ == '__main__':
 
 	prefecture = Prefecture()
-	prefecture.updateSelenium("[Prefecture !] PRISE DE RENDEZ-VOUS AU TITRE DE L'ADMISSION EXCEPTIONNELLE AU SÉJOUR - SOUS-PRÉFECTURE DE L'HAY-LES-ROSES", ["mohamed.bouchiba1993@gmail.com","fodehissirou@gmail.com"])
+	prefecture.updateSelenium("[Prefecture !] PRISE DE RENDEZ-VOUS AU TITRE DE L'ADMISSION EXCEPTIONNELLE AU SÉJOUR - SOUS-PRÉFECTURE DE L'HAY-LES-ROSES", ["emailtosend1@gmail.com","emailtosend2@gmail.com"])
